@@ -1,5 +1,4 @@
-package com.bishal.LinearSearch;
-
+package com.bishal.LinearSearchProblems;
 import java.util.Arrays;
 
 public class LinearSearch {
